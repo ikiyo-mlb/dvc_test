@@ -1,0 +1,5 @@
+[core]
+    remote = storage
+['remote "storage"']
+    url = gs://ocr-ai-dataset
+    projectname = ocr-ai-318509
